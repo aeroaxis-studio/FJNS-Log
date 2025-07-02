@@ -1,0 +1,12 @@
+{
+  "name": "fjns-log",
+  "version": "1.0.0",
+  "description": "FJNS\u76f8\u5173\u4e8b\u4ef6\u8bb0\u5f55 GitBook",
+  "scripts": {
+    "build": "gitbook build",
+    "serve": "gitbook serve"
+  },
+  "devDependencies": {
+    "gitbook-cli": "^2.3.2"
+  }
+}
