@@ -3,10 +3,10 @@
   "version": "1.0.0",
   "description": "FJNS相关事件记录 GitBook",
   "scripts": {
-    "build": "gitbook build",
-    "serve": "gitbook serve"
+    "build": "honkit build",
+    "serve": "honkit serve"
   },
   "devDependencies": {
-    "gitbook-cli": "^2.3.2"
+    "honkit": "^3.0.0"
   }
 }
